@@ -1,0 +1,20 @@
+.container {
+  padding: 25px 20%;
+  background-color: #2c6f7895;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.itens {
+  display: flex;
+  justify-content: space-between;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.itens a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.itens a:hover {
+  scale: 1.1;
+}
